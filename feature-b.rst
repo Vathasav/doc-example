@@ -1,7 +1,7 @@
 Feature b
 =========
 
-.. literalinclude:: temp.txt
+Finland is voted as happiest country in 2018
 .. code-block:: c
 
    #include <stdio.h>
