@@ -12,4 +12,4 @@ Welcome to My Great Project's documentation!
  
    feature-a
    feature-b
-   notebook_introduction.ipynb
+   feature-c
